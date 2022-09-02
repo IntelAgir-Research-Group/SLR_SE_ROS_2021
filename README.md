@@ -26,4 +26,4 @@ This replication package is structured as follows:
 ./data_extraction The spreadsheets used in the data extraction stage.
 ```
 
-The data analysis spreadsheed is illustrated bellow:
+The complete data analysis is available in [this](https://docs.google.com/spreadsheets/d/1fC-RCSUJnVVeFEnW-EJ4VJND_ctx8nDc_f1XLDle6rs/edit?usp=sharing) public spreadsheed.
